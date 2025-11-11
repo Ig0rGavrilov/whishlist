@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_ui_section action="DELETE" caption="New Section" section_id="4a957857418132107f444c6e0bc1db11" sys_domain="global" table="x_snc_whish_ist_wish_item" version="3" view="">
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>url</element>
+            <position>0</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2025-11-11 16:18:22</sys_created_on>
+            <sys_id>e6957857418132107f444c6e0bc1db8e</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="New Section" display_value="New Section" name="x_snc_whish_ist_wish_item" sys_domain="global" view="Default view">4a957857418132107f444c6e0bc1db11</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2025-11-11 16:18:22</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_section action="DELETE">
+            <caption>New Section</caption>
+            <header>false</header>
+            <name>x_snc_whish_ist_wish_item</name>
+            <roles/>
+            <sys_class_name>sys_ui_section</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2025-11-11 16:18:21</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>4a957857418132107f444c6e0bc1db11</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>x_snc_whish_ist_wish_item</sys_name>
+            <sys_overrides/>
+            <sys_package display_value="Whish:ist" source="x_snc_whish_ist">7c8d9c97410132107f444c6e0bc1dbeb</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Whish:ist">7c8d9c97410132107f444c6e0bc1dbeb</sys_scope>
+            <sys_update_name>sys_ui_section_4a957857418132107f444c6e0bc1db11</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2025-11-11 16:18:21</sys_updated_on>
+            <sys_user/>
+            <title>false</title>
+            <view display_value="Default view" name="NULL">Default view</view>
+            <view_name/>
+        </sys_ui_section>
+    </sys_ui_section>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Whish:ist">7c8d9c97410132107f444c6e0bc1dbeb</application>
+        <file_path/>
+        <instance_id>62ae0019930dfed0eaceb57c5cba10d2</instance_id>
+        <instance_name>nowlearning-nlinst03447193-731mu-0001</instance_name>
+        <name>sys_ui_section_4a957857418132107f444c6e0bc1db11</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update><sys_ui_section caption="New Section" section_id="4a957857418132107f444c6e0bc1db11" sys_domain="global" table="x_snc_whish_ist_wish_item" version="3" view=""><sys_ui_element action="INSERT_OR_UPDATE"><element>url</element><position>0</position><sys_created_by>admin</sys_created_by><sys_created_on>2025-11-11 16:18:22</sys_created_on><sys_id>e6957857418132107f444c6e0bc1db8e</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="New Section" display_value="New Section" name="x_snc_whish_ist_wish_item" sys_domain="global" view="Default view">4a957857418132107f444c6e0bc1db11</sys_ui_section><sys_updated_by>admin</sys_updated_by><sys_updated_on>2025-11-11 16:18:22</sys_updated_on><sys_user/><type/></sys_ui_element><sys_ui_section action="INSERT_OR_UPDATE"><caption>New Section</caption><header>false</header><name>x_snc_whish_ist_wish_item</name><roles/><sys_class_name>sys_ui_section</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2025-11-11 16:18:21</sys_created_on><sys_domain>global</sys_domain><sys_domain_path>/</sys_domain_path><sys_id>4a957857418132107f444c6e0bc1db11</sys_id><sys_mod_count>0</sys_mod_count><sys_name>x_snc_whish_ist_wish_item</sys_name><sys_overrides/><sys_package display_value="Whish:ist" source="x_snc_whish_ist">7c8d9c97410132107f444c6e0bc1dbeb</sys_package><sys_policy/><sys_scope display_value="Whish:ist">7c8d9c97410132107f444c6e0bc1dbeb</sys_scope><sys_update_name>sys_ui_section_4a957857418132107f444c6e0bc1db11</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2025-11-11 16:18:21</sys_updated_on><sys_user/><title>false</title><view display_value="Default view" name="NULL">Default view</view><view_name/></sys_ui_section></sys_ui_section></record_update>]]></payload>
+        <payload_hash>643751889</payload_hash>
+        <record_name>Wish Item</record_name>
+        <reverted_from/>
+        <source>65e2209f410132107f444c6e0bc1db5e</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-11-11 16:18:22</sys_created_on>
+        <sys_id>66957857418132107f444c6e0bc1db90</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>19a73b60e960000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-11-11 16:18:22</sys_updated_on>
+        <type>Form Layout</type>
+        <update_guid>ea957857a781321073027afafff2cf8f</update_guid>
+        <update_guid_history>ea957857a781321073027afafff2cf8f:643751889</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-11-11 16:19:29</sys_created_on>
+        <sys_db_object display_value="" name="sys_ui_section">sys_ui_section</sys_db_object>
+        <sys_id>099daf3a136d4ac7897717e327aec099</sys_id>
+        <sys_metadata>4a957857418132107f444c6e0bc1db11</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>New Section</sys_name>
+        <sys_package display_value="Whish:ist" source="x_snc_whish_ist">7c8d9c97410132107f444c6e0bc1dbeb</sys_package>
+        <sys_parent display_value="Wish Item">322edcd7410132107f444c6e0bc1db0c</sys_parent>
+        <sys_policy/>
+        <sys_scope display_value="Whish:ist">7c8d9c97410132107f444c6e0bc1dbeb</sys_scope>
+        <sys_scope_delete display_value="">0eba766524854031a5cb35118c469069</sys_scope_delete>
+        <sys_update_name>sys_ui_section_4a957857418132107f444c6e0bc1db11</sys_update_name>
+        <sys_update_version display_value="sys_ui_section_4a957857418132107f444c6e0bc1db11">66957857418132107f444c6e0bc1db90</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-11-11 16:19:29</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>
